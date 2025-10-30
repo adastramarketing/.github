@@ -18,6 +18,6 @@ Markets: UA/EU. Focus: speed to value and measurable ROI.
 `Google Ads` · `GA4/BigQuery` · `Cloudflare` · `PHP/JS` · `Node` · `Shopify` · `WooCommerce` · `Docker`
 
 ## Contact
-adastramarketing.com.ua · support@adastramarketing.com.ua · LinkedIn · Telegram
+adastramarketing.com.ua · support@adastramarketing.com.ua · [LinkedI]([url](https://www.linkedin.com/in/adastra-digital/))n · [Telegram]([url](https://www.linkedin.com/in/adastra-digital/))
 
 > UA: Будуємо прибуткові e-commerce-системи з прозорою аналітикою й швидким виходом на результат.
