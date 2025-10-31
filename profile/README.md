@@ -1,4 +1,4 @@
-# Ad Astra / Digital Marketing
+# Ad Adastra | Digital Marketing
 
 We build profitable e-commerce systems: Google Ads + GA4/BigQuery (Measurement Protocol) + server-side tracking + Shopify/Woo + Cloudflare.  
 Markets: UA/EU. Focus: speed to value and measurable ROI.
