@@ -1,4 +1,4 @@
-# Contributing to Ad Astra
+# Contributing to Ad Adastra
 
 
 Thanks for your interest in contributing!
