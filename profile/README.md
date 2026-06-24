@@ -1,4 +1,4 @@
-# Ad Adastra | Digital Marketing
+# Ad Astra | Digital Marketing
 
 We build profitable e-commerce systems: Google Ads + GA4/BigQuery (Measurement Protocol) + server-side tracking + Shopify/Woo + Cloudflare.  
 Markets: UA/EU. Focus: speed to value and measurable ROI.
@@ -18,6 +18,6 @@ Markets: UA/EU. Focus: speed to value and measurable ROI.
 `Google Ads` · `GA4/BigQuery` · `Cloudflare` · `PHP/JS` · `Node` · `Shopify` · `WooCommerce` · `Docker`
 
 ## Contact
-[adastramarketing.com.ua](https://adastramarketing.com.ua/) · support@adastramarketing.com.ua · [Linkedin](https://www.linkedin.com/in/adastra-digital/) · [Telegram](https://www.linkedin.com/in/adastra-digital/)
+[adastramarketing.website](https://adastramarketing.website/en/) · support@adastramarketing.website · [Linkedin](https://www.linkedin.com/in/adastra-digital/) · [Telegram](https://t.me/Ask_a1)
 
 > UA: Будуємо прибуткові e-commerce-системи з прозорою аналітикою й швидким виходом на результат.
