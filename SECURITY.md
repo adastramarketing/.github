@@ -1,7 +1,7 @@
 # Security Policy
 
 
-If you believe you’ve found a security vulnerability, please email **conduct@adastramarketing.com.ua**.
+If you believe you’ve found a security vulnerability, please email **info@adastramarketing.website**.
 
 
 We aim to:
