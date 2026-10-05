@@ -1,15 +1,5 @@
-# Security Policy
+# Security
 
+Found a vulnerability in one of my projects? Please email support@adadastra.com rather than opening a public issue, so the details stay private until it's fixed.
 
-If you believe you’ve found a security vulnerability, please email **info@adastramarketing.website**.
-
-
-We aim to:
-- Acknowledge receipt within **2 business days**
-- Provide a remediation plan or requested clarifications within **10 business days**
-
-
-Please include (when possible): affected repo/commit, PoC, impact, and suggested fix.
-
-
-Do **not** open public issues for security reports.
+I'll confirm within 2 business days. Steps to reproduce help a lot.

@@ -1,23 +1,28 @@
-# Ad Astra | Digital Marketing
+# Anastasiia Kyslenko · Ad Adastra Marketing
 
-We build profitable e-commerce systems: Google Ads + GA4/BigQuery (Measurement Protocol) + server-side tracking + Shopify/Woo + Cloudflare.  
-Markets: UA/EU. Focus: speed to value and measurable ROI.
+I'm a freelance digital marketer who also writes the code behind the ads, from tracking to the site itself. Most of that code is client work and stays private. Google Partner, [badge 3443789390](https://www.google.com/partners/agency?id=3443789390).
 
-## What we do
-- Performance marketing (P-Max/Search/Video) with clean GA4 tracking (MP + BigQuery)
-- Shopify/Woo engineering (PHP/JS), speed & SEO health, CRO
-- Server-side integrations, S2S events & bot filtering (Cloudflare)
-- Looker Studio reporting, creative systems & A/B testing tied to unit economics
+Most of my work sits between the ad account and the CRM: I set Google Ads up to learn from orders the CRM confirmed, not from every form submit.
 
-## Selected results
-- +34% CR and ROAS 3.1 → 4.2 in 6 weeks (nutrition e-commerce)
-- LCP 4.8s → 1.7s, CLS < 0.05 (Woo + WoodMart), +22% organic traffic
-- Full GA4 S2S purchase (MP) incl. client_id/session_id & item-level attributes
+## What I do
 
-## Tech stack
-`Google Ads` · `GA4/BigQuery` · `Cloudflare` · `PHP/JS` · `Node` · `Shopify` · `WooCommerce` · `Docker`
+- Google Ads: Search, Performance Max, Shopping
+- GA4, GTM, Measurement Protocol, offline conversion import from the CRM
+- CRM and API integrations, Telegram bots, automation
+- WordPress and Shopify development, CRO
+
+I've run Google Ads for Ukraine, Germany and the UK.
+
+## One number, and its limits
+
+ROAS ×6.4 as Google Ads reports it, across the 9 e-commerce accounts I ran from 17 May to 14 Aug 2026 (total conversion value divided by total spend, taken from the Google Ads API). Without the best account it's ×6.0. Accounts where purchase value doesn't reach Google Ads were left out. It's the ad platform's own number and it doesn't predict results for another store.
+
+## Also building
+
+[Pivona](https://pivona.io), a CRM and planner for freelancers. The repo is private.
 
 ## Contact
-[adastramarketing.website](https://adastramarketing.website/en/) · support@adastramarketing.website · [Linkedin](https://www.linkedin.com/in/adastra-digital/) · [Telegram](https://t.me/Ask_a1)
 
-> UA: Будуємо прибуткові e-commerce-системи з прозорою аналітикою й швидким виходом на результат.
+[adadastra.com](https://adadastra.com/en/?utm_source=github&utm_medium=profile_readme) · support@adadastra.com · [LinkedIn](https://www.linkedin.com/in/adadastra/) · [Telegram](https://t.me/Ask_a1)
+
+> UA: пишіть українською, відповім так само.
